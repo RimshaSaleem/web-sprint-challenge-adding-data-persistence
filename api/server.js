@@ -21,7 +21,7 @@ server.use((err, req, res, next) => {
 
 server.get('/', (req, res) => {
     res.send(`
-    <h2>Hello from express 🤖</h2>
+    <h2>Rimsha Web 45 assignment</h2>
     `)
 });
 
